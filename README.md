@@ -16,3 +16,5 @@ What you’ll find:
 📦 Responsive Design for smooth access on all devices.
 
 Whether you're a lifelong fan or just discovering his greatness, VK’s Kit brings together everything that fuels the legend’s journey.
+
+click here to preview : https://vk-s-kit.netlify.app/
